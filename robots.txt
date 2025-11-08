@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://0-sky-0.github.io/SamanthaNicolHuayapaCcapatinta/sitemap.xml
